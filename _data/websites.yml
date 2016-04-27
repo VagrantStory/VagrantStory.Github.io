@@ -1,8 +1,17 @@
-- name: Gif-Giving
-  url: http://gif-giving.com
+- name: Ruby on Rails library management system
+  url: http://github.com
 
-- name: Sheri Koetting
-  url: http://sherikoetting.com
+- name: E-commerce in PHP and MongoDB
+  url: http://github.com
 
-- name: GetPeppers
-  url: http://getpeppers.com
+- name: Rasberry Pi Radio morse code Transmitter and Location Finder in Python
+  url: http://github.com
+
+- name: Github API v3 Auto Follow by Node.js
+  url: http://github.com
+
+- name: Instagram E-commerce in Laravel 5
+  url: http://github.com
+
+- name: World oF Warcraft Emulator powered by Node.js
+  url: http://github.com

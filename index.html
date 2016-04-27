@@ -5,11 +5,11 @@ layout: default
 {% include header.html %}
 
 <div class="portfolio">
-    <h1>Web Design:</h1>
+    <h1>Projects:</h1>
     <ul>
         {% for websites in site.data.websites %}
         <li>
-            <a href="{{ websites.url }}">{{ websites.url }}</a>
+            <a href="{{ websites.url }}">{{ websites.name }}</a>
         </li>
         {% endfor %}
     </ul>

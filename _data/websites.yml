@@ -1,17 +1,23 @@
-- name: Ruby on Rails library management system
+- name: Secure Chat App by Swif and using NodeJS
   url: http://github.com
 
-- name: E-commerce in PHP and MongoDB
+- name: Ruby On Rails restful web services
   url: http://github.com
 
-- name: Rasberry Pi Radio morse code Transmitter and Location Finder in Python
+- name: Secure Bank Transaction API in PHP 7 & c++
   url: http://github.com
 
-- name: Github API v3 Auto Follow by Node.js
+- name: Instagram Profile Picture Grabber in NodeJS
   url: http://github.com
 
-- name: Instagram E-commerce in Laravel 5
+- name: Ecommerce CMS Platform in Laravel 5
   url: http://github.com
 
-- name: World oF Warcraft Emulator powered by Node.js
+- name: Raspberry Pi Pixie Dust WPS attack
+  url: http://github.com
+
+- name: Rasberry Pi Morse Code Transmitter in Python
+  url: http://github.com
+
+- name: Instagram Session Hijacking & MiTM Attack in C++ and Python
   url: http://github.com
